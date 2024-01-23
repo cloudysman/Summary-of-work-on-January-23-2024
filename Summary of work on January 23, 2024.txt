@@ -1,0 +1,10 @@
+Chạy thực để tinhs chỉ số ở trong video mẫu có sẵn
+Viết thêm Paper
+Nói về mô hình, cách triển khai 
+Viết dataset gán nhãn thêm
+Gán nhãn thêm như thế nào, cách gán nhãn ra làm sao, kết quả như thế nào?
+Viết thêm cái Multiple CI (tính trung bình của các chỉ số tính độ tập trung của từng học sinh)
+Tính công thức mới
+Thực nghiệm trên lớp học thực tế
+Kết quả đánh giá giáo viên
+Tuần sau thầy đọc lại phần 3
